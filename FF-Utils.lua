@@ -305,9 +305,9 @@ function getTeam(teamName)
 			},
 			TouchdownAnimation = "NFC\\NFC North"
 		}
-	elseif (teamName == "Detriot Lightning") then
+	elseif (teamName == "Detroit Lightning") then
 		return {
-			City = "Detriot",
+			City = "Detroit",
 			Name = "Lions",
 			EndzoneDecal = "rbxassetid://9840529330",
 			Colors = {
